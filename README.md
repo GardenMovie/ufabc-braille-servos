@@ -7,6 +7,12 @@ This group project was developed as part of a university course on Solutions for
 Inspired by [Braille Systems's braille display](https://github.com/braille-systems/braille-display). Some pieces were taken directly from their files, those made by the group are available on this repo.
 
 ## **Final result**
+<p align="center">
+    <img src ="./docs/assembled2.jpeg" width="24%" />
+    <img src ="./docs/assembledFront.jpeg" width="24%" />
+    <img src ="./docs/brailleActuatorArms.jpeg" width="24%" />
+    <img src ="./docs/assembled1.jpeg" width="24%" />
+</p>
 
 
 ## **Table of Contents**
